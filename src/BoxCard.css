@@ -1,0 +1,7 @@
+.BoxCard{
+    text-align: center;
+}
+.cardInfo{
+    display: flex;
+    justify-content: center;
+}
